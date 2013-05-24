@@ -36,6 +36,7 @@ The current tutorial is known to work with the following JDK build:
 lambda-tutorial will try to track against the newest version available. If you find that you are working with a newer version of the Lambda JDK and the tutorial does not compile or run, please file an issue.
 
 ### IDE Setup
-- [IntelliJ IDEA](https://github.com/neomatrix369/lambda-tutorial/wiki/IntelliJ-IDEA-on-Ubuntu-%5BLinux%5D)
+- [IntelliJ IDEA on Ubuntu](https://github.com/neomatrix369/lambda-tutorial/wiki/IntelliJ-IDEA-on-Ubuntu-%5BLinux%5D)
+- [IntelliJ IDEA on MacOS](https://github.com/neomatrix369/lambda-tutorial/wiki/IntelliJ-IDEA-on-MacOS)
 - Eclipse Juno
 
