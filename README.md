@@ -18,6 +18,7 @@ To follow the exercises:
  1. Internal vs External Iteration (the forEach method)
  2. Filtering and Collecting
  3. Mapping
+ 4. (In Progress) Method References
 
 [More to come]
 
@@ -36,7 +37,12 @@ The current tutorial is known to work with the following JDK build:
 lambda-tutorial will try to track against the newest version available. If you find that you are working with a newer version of the Lambda JDK and the tutorial does not compile or run, please file an issue.
 
 ### IDE Setup
+<<<<<<< HEAD
 - [IntelliJ IDEA on Ubuntu](https://github.com/neomatrix369/lambda-tutorial/wiki/IntelliJ-IDEA-on-Ubuntu-%5BLinux%5D)
 - [IntelliJ IDEA on MacOS](https://github.com/neomatrix369/lambda-tutorial/wiki/IntelliJ-IDEA-on-MacOS)
+=======
+- [IntelliJ IDEA on Ubuntu](https://github.com/AdoptOpenJDK/lambda-tutorial/wiki/IntelliJ-IDEA-on-Ubuntu-%5BLinux%5D)
+- [IntelliJ IDEA on MacOS](https://github.com/AdoptOpenJDK/lambda-tutorial/wiki/IntelliJ-IDEA-on-MacOS)
+>>>>>>> b137c2a0f65eaa346a1fe535614abe0dc7210a38
 - Eclipse Juno
 
