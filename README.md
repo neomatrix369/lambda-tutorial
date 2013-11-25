@@ -18,7 +18,7 @@ To follow the exercises:
  1. Internal vs External Iteration (the forEach method)
  2. Filtering and Collecting
  3. Mapping
- 4. (In Progress) Method References
+ 4. Method References
 
 [More to come]
 
@@ -32,7 +32,7 @@ The current tutorial is known to work with the following JDK build:
 
 |JDK Build Number|Released On |
 |:---------------|:---------- |
-|b88             |May 09, 2013|
+|ea b109         |Sep 26, 2013|
 
 lambda-tutorial will try to track against the newest version available. If you find that you are working with a newer version of the Lambda JDK and the tutorial does not compile or run, please file an issue.
 
